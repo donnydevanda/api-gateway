@@ -1,9 +1,12 @@
-var express = require('express');
-var router = express.Router();
+var express = require("express");
+const router = express.Router();
 
-/* GET users listing. */
-router.get('/', function(req, res, next) {
-  res.send('respond with a resource');
-});
+const usersHandler = require("./handler/users");
+const verifyToken = require("../middlewares/verifyToken");
+
+router.post("/register", usersHandler.register);
+router.post("/login", usersHandler.login);
+router.put("/", verifyToken, usersHandler.update);
+router.get("/", verifyToken, usersHandler.getUser);
 
 module.exports = router;
