@@ -1,10 +1,22 @@
-# api-gateway
+# micourse-api-gateway
 (ExpressJS) API gateway for Micourse microservice project.
 
-- https://github.com/donnydevanda/service-course
+1. Link to API Documentation:
 
-- https://github.com/donnydevanda/service-user
+- https://documenter.getpostman.com/view/12115627/UVJbGx9D
 
-- https://github.com/donnydevanda/service-order-payment
+2. Link to Each Services:
 
-- https://github.com/donnydevanda/service-media
+- [Course] https://github.com/donnydevanda/service-course
+
+- [Media] https://github.com/donnydevanda/service-media
+
+- [Order Payment] https://github.com/donnydevanda/service-order-payment
+
+- [User] https://github.com/donnydevanda/service-user
+
+3. Link to Frontend:
+
+- [Main] https://github.com/donnydevanda/micourse-web
+
+- [Member] https://github.com/donnydevanda/micourse-member
