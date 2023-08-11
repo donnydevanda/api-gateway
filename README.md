@@ -7,16 +7,16 @@
 
 2. Link to Each Services:
 
-- [Course] https://github.com/donnydevanda/service-course
+- [Course] https://github.com/donnydevanda/micourse-service-course
 
-- [Media] https://github.com/donnydevanda/service-media
+- [Media] https://github.com/donnydevanda/micourse-service-media
 
-- [Order Payment] https://github.com/donnydevanda/service-order-payment
+- [Order Payment] https://github.com/donnydevanda/micourse-service-order-payment
 
-- [User] https://github.com/donnydevanda/service-user
+- [User] https://github.com/donnydevanda/micourse-service-user
 
 3. Link to Frontend:
 
-- [Main] https://github.com/donnydevanda/micourse-web
+- [Main] https://github.com/donnydevanda/micourse-fe-web
 
-- [Member] https://github.com/donnydevanda/micourse-member
+- [Member] https://github.com/donnydevanda/micourse-fe-member
